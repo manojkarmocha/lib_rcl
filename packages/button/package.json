@@ -1,0 +1,27 @@
+{
+  "name": "@quramy/button",
+  "version": "1.0.0",
+  "description": "Awesome button",
+  "main": "lib/index.js",
+  "scripts": {
+    "compile": "tsc",
+    "test": "echo \"T.B.D.\""
+  },
+  "types": "lib/index.d.ts",
+  "keywords": [],
+  "author": "quramy",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^14.11.8"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "typescript": "4.1.3"
+  },
+  "peerDependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
